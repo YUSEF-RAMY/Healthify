@@ -1,4 +1,4 @@
-# InBody AI Extractor API
+# InBody Gemini Extractor API
 
 API that extracts InBody data from images using Google Gemini AI.
 
